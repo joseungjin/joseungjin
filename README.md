@@ -1,4 +1,4 @@
-## 👋 JoSeungJin 
+## 👋 Hello
 
 ## 💪 Tech Stack 
 
